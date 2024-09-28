@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Prob1
+comment1.params=t
+comment1.target=double\ CelToKel(double)
+comment2.params=t
+comment2.target=double\ CelToFahr(double)
+comment3.params=t
+comment3.target=double\ FahrToCel(double)
+comment4.params=t
+comment4.target=double\ FahrToKel(double)
+comment5.params=t
+comment5.target=double\ KelToCel(double)
+comment6.params=t
+comment6.target=double\ KelToFahr(double)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

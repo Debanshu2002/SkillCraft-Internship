@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Prob3
+comment0.text=\r\n\ Create\ a\ program\ that\ solves\ Sudoku\ puzzles\ automatically.\ \r\n\ The\ program\ should\ take\ an\ input\ grid\ representing\ an\ unsolved\ Sudoku\ puzzle\ \r\n\ and\ use\ an\ algorithm\ to\ fill\ in\ the\ missing\ numbers.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=board
+comment2.target=void\ printBoard(int[][])
+comment3.params=board\ num\ row
+comment3.target=boolean\ existsRow(int[][],\ int,\ int)
+comment4.params=board\ num\ col
+comment4.target=boolean\ existsCol(int[][],\ int,\ int)
+comment5.params=board\ num\ row\ col
+comment5.target=boolean\ existsGrid(int[][],\ int,\ int,\ int)
+comment6.params=board\ num\ row\ col
+comment6.target=boolean\ isValid(int[][],\ int,\ int,\ int)
+comment7.params=board
+comment7.target=boolean\ solveBoard(int[][])
+numComments=8
